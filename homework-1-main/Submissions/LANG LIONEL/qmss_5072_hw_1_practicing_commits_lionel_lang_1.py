@@ -75,7 +75,6 @@ To **summarize**, this GitHub project is valuable because it:
 - can be extended to support multiple fantasy sports (football, basketball, and more)
 
 Overall, the ESPN API project helps users move from manually checking scores on a website to *programmatically* analyzing their leagues in a reproducible way； I also practiced good version-control habits by making multiple commits
-to my Git repository as I updated this notebook.  
-This helped me keep a clear record of my progress and made it easy to
+to my Git repository as I updated this notebook；This helped me keep a clear record of my progress and made it easy to
 revert or compare changes when necessary.
 """
