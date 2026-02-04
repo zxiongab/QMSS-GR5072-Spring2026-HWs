@@ -33,7 +33,7 @@ In this notebook, I will:
 - show an example plot that could be created using data from this kind of API
 - summarize a few **important points** about why this project is useful.
 
-The code will be down below with the sample problem.
+The code will be down below with the sample chart:
 """
 
 import matplotlib.pyplot as plt
